@@ -1,1 +1,1 @@
-# Depressive-Tweet-Detection--On-Twitter-Dataset
+# Depressive-Tweet-Detection-On-Twitter-Dataset
